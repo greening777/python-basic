@@ -29,9 +29,3 @@
 - 파일 읽기와 쓰기
 - `with` 문을 활용한 파일 관리
 
----
-
-## 🛠 프로젝트 실행 방법
-1. 레포지토리를 클론합니다:
-   ```bash
-   git clone https://github.com/greening777/python-basic.gi
